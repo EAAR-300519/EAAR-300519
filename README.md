@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning all about Java and JavaScript<br>🎯 Goals: Be a good developer to allow me to do Home Office.<br>🎲 Fun fact: In the beginning i thought that Java and JavaScript was the same, but after a year i realize that... they're not</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning all about Java and JavaScript<br>🎯 Goals: Be a good developer to allow me to do Home Office.<br>🎲 Fun fact: In the beginning i thought that Java and JavaScript was the same, but after a year i realize that... they're not</p>
 
 ###
 
